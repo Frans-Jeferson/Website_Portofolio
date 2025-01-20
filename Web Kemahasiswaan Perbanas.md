@@ -34,3 +34,6 @@ Website yang dikembangkan berhasil menyediakan platform yang interaktif dan user
 Pengalaman ini memperluas wawasan saya tentang pengembangan website sekaligus meningkatkan kemampuan saya dalam berkomunikasi, bekerja sama dalam tim, dan memberikan solusi yang inovatif.
 
 Link Website :https://kemahasiswaan.perbanas.id/
+
+
+Tech Stack: WordPress, HTML, CSS, PHP, JavaScript.
