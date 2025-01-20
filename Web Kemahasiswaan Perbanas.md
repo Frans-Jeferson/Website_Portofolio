@@ -1,39 +1,37 @@
+**Development of the Perbanas Student Affairs Website as Part of an Internship Project with a Team**  
 
-Pengembangan Website Kemahasiswaan Perbanas sebagai Bagian dari KKP Bersama Tim Kelompok
+As part of the Internship Program (KKP), my team and I collaborated to design and develop a student affairs website aimed at supporting the information and activity needs of students within the Perbanas campus. This project not only provided hands-on experience in digital technology development but also involved teamwork, problem-solving, and the implementation of effective communication strategies.  
 
-Sebagai bagian dari kegiatan Kuliah Kerja Praktik (KKP), saya dan teman-teman dalam satu kelompok bekerja sama untuk merancang dan mengembangkan sebuah website kemahasiswaan yang bertujuan mendukung kebutuhan informasi dan aktivitas mahasiswa di lingkungan kampus Perbanas. Proyek ini tidak hanya memberikan pengalaman langsung dalam pengembangan teknologi digital, tetapi juga melibatkan kolaborasi tim, pemecahan masalah, dan implementasi strategi komunikasi yang efektif.
+**Project Objective:**  
+The website was designed to serve as a platform that facilitates students' access to academic information and campus activities, including class schedules, important announcements, organizational event agendas, and student administrative services.  
 
-Tujuan Proyek:
-Website ini dirancang untuk menjadi platform yang mempermudah mahasiswa dalam mengakses informasi akademik dan kegiatan kampus, termasuk jadwal kuliah, pengumuman penting, agenda kegiatan organisasi, serta layanan administrasi mahasiswa.
+**My Roles and Contributions:**  
 
-Tugas dan Kontribusi Saya:
+**1. Website Concept and Structure Design:**  
+- Collaborated with the team to create a framework (wireframe) to define page layouts, navigation, and core website features.  
+- Ensured that every design element met the students’ needs, such as accessibility and ease of use.  
 
-Perancangan Konsep dan Struktur Website:
+**2. Content Management:**  
+- Wrote and organized informative content, such as academic announcements, student organization descriptions, and administrative service guides.  
+- Created engaging copywriting for the homepage and other features to make the website both professional and user-friendly.  
 
-Bersama tim, saya menyusun kerangka kerja (wireframe) untuk menentukan tata letak halaman, navigasi, dan fitur utama website.
-Memastikan setiap elemen desain sesuai dengan kebutuhan mahasiswa, seperti aksesibilitas dan kemudahan penggunaan.
-Pengelolaan Konten:
+**3. Technical Development:**  
+- Contributed to coding using HTML, CSS, and JavaScript to build a responsive user interface (UI).  
+- Collaborated with team members responsible for backend development to ensure connectivity between the database and features such as the student login system.  
 
-Menulis dan mengatur konten informatif seperti pengumuman akademik, deskripsi organisasi mahasiswa, serta panduan layanan administrasi.
-Membuat copywriting yang menarik untuk halaman utama dan fitur lainnya agar website terasa profesional sekaligus ramah bagi pengguna.
-Pengembangan Teknis:
+**4. Collaboration and Problem Solving:**  
+- Actively participated in team discussions to resolve various technical challenges, such as website speed optimization and device compatibility.  
+- Maintained effective communication within the group to ensure that all members understood their roles and responsibilities.  
 
-Berkontribusi dalam coding menggunakan HTML, CSS, dan JavaScript untuk membangun tampilan antarmuka (UI) yang responsif.
-Bekerja sama dengan anggota tim yang bertugas di bagian backend untuk memastikan konektivitas antara database dan fitur seperti sistem login mahasiswa.
-Kolaborasi dan Pemecahan Masalah:
+**5. Testing and Evaluation:**  
+- Conducted comprehensive testing of the website to ensure functionality, responsiveness, and security.  
+- Gathered feedback from user testing to make improvements and refinements before the website launch.  
 
-Secara aktif berpartisipasi dalam diskusi tim untuk mengatasi berbagai tantangan teknis, seperti optimasi kecepatan website dan kompatibilitas perangkat.
-Mengelola komunikasi yang baik dalam kelompok agar setiap anggota memahami peran dan tanggung jawab masing-masing.
-Pengujian dan Evaluasi:
+**Results:**  
+The developed website successfully provided an interactive and user-friendly platform, enabling students to access critical information more quickly and efficiently. This project received appreciation from the campus administration for its contribution to addressing students' digital needs.  
 
-Menguji website secara menyeluruh untuk memastikan fungsionalitas, responsivitas, dan keamanan.
-Menerima masukan dari pengguna uji coba (user testing) untuk melakukan perbaikan dan penyempurnaan sebelum peluncuran.
-Hasil:
-Website yang dikembangkan berhasil menyediakan platform yang interaktif dan user-friendly, membantu mahasiswa dalam mengakses informasi penting dengan lebih cepat dan efisien. Proyek ini juga mendapatkan apresiasi dari pihak kampus atas kontribusinya dalam mendukung kebutuhan mahasiswa secara digital.
+This experience broadened my knowledge of website development while enhancing my communication skills, teamwork abilities, and innovative problem-solving approach.  
 
-Pengalaman ini memperluas wawasan saya tentang pengembangan website sekaligus meningkatkan kemampuan saya dalam berkomunikasi, bekerja sama dalam tim, dan memberikan solusi yang inovatif.
+**Website Link:** [https://kemahasiswaan.perbanas.id/](https://kemahasiswaan.perbanas.id/)  
 
-Link Website :https://kemahasiswaan.perbanas.id/
-
-
-Tech Stack: WordPress, HTML, CSS, PHP, JavaScript.
+**Tech Stack:** WordPress, HTML, CSS, PHP, JavaScript.  
